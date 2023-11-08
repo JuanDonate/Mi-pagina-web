@@ -1,1 +1,152 @@
-usiuqgfw
+<html>
+<head>
+
+<h1>Juan Carlos Donate Legidos</h1>
+ <style>
+  table.blueTable {
+  font-family: "
+  border: 3px solid #000000;
+  background-color: #74FF33;
+  width: 100%;
+  height: 190px;
+  text-align: center;
+  border-collapse; collapse;
+}
+table.blueTable td, table.blue th {
+  border:2 px solid #74FF33;
+  padding: 2px 3px;
+}
+table.blueTable tbody td {
+  font-size: 11px;
+  color: #979A9A;
+}
+table.blueTable tr:nth-child(even) {
+ background: #3651F2;
+}
+table.blueTable thead {
+ background: #3651F2;
+ border-bottom: 4px solid #74FF33;
+}
+table.blueTable thead th {
+  font-size: 11px;
+  font-weight: bold;
+  color: #E825F5;
+  text-align: center;
+  border-left: 2px solid #74FF33;
+}
+table.blueTable thead th:first-child {
+  border-left: none;
+}
+table.darkTable tfoot {
+  font-size: 11px;
+  font-weight: bold;
+  color: #E825F5;
+  background: #000000;
+  background: -moz-linear-gradient(top, #404040 0%, #191919 66%, #000000 100%);
+  background: -webkit-linear-gradient(top, #404040 0%, #191919 66%, #000000 100%);
+  background: linear-gradient(to bottom, #404040 0%, #191919 66%, #000000 100%);
+  border-top: 2px solid #74FF33;
+}
+table.darkTable tfoot td {
+  font-size: 10px;
+}
+  </style>
+<body>
+<table>
+ <tr>
+   <td>Mi Pagina</td>
+   <td>Primera imagen</td>
+ </tr>
+ <tr>
+    <td>SMRV</td>
+    <td><img src="https://images.app.goo.gl/XKvGXYvTw2z76T1v9"
+	alt="Los Angeles"
+	height="125"
+	width="225"/></td>
+	</td>
+  </tr>
+</table>
+<ul>
+Lenguajes de programación de Java
+
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+</ul>
+<table class="blueTable">
+<thead>
+<tr>
+<th>Lugar</th>
+<th>Monumento</th>
+<th>Esculturas</th>
+<th></th>
+</tr>
+</thead>
+<tfoot>
+<tr>
+<td><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Jujutsu_Kaisen_logo_in_Japan.png"
+alt="Jujutsu Kaisen"
+height="250"
+width=""</td>
+<td><img src="https://laverdadnoticias.com/__export/1691935315085/sites/laverdad/img/2023/08/13/jujutsu_kaisencomo_es_que_suguru_geto_se_convirtio_en_el_villano_1.jpg_478486366.jpg"
+alt="Suguru Geto"
+height="250"
+width=""</td>
+<td><img src="https://staticg.sportskeeda.com/editor/2023/08/1e24e-16914249060895-1920.jpg?w=840"
+alt="Mahito"
+height="250"
+width=""</td>
+<td></td>
+</tr>
+</tfoot>
+<tbody>
+<tr>
+<td><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fdynamic-media-cdn.tripadvisor.com%2Fmedia%2Fphoto-o%2F16%2F0a%2F8e%2Fb8%2Fbaja-california-es-ese.jpg%3Fw%3D500%26h%3D300%26s%3D1&tbnid=lqkqTIS97MPVmM&vet=12ahUKEwitstKxg7WCAxUQsCcCHSUuDo4QMygDegQIARBy..i&imgrefurl=https%3A%2F%2Fwww.tripadvisor.es%2FTourism-g150769-Baja_California-Vacations.html&docid=f-mKtvdbi12IWM&w=500&h=300&q=baja%20california&ved=2ahUKEwitstKxg7WCAxUQsCcCHSUuDo4QMygDegQIARBy"
+alt="Baja California"
+height="225"
+width=""</td>
+<td><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.bcsnoticias.mx%2Fwp-content%2Fuploads%2F2016%2F02%2Fmalecon-clima-nublado-escultura.jpg&tbnid=1OwJqAK7F77JQM&vet=12ahUKEwj8wbLdg7WCAxV9VaQEHXpwDCgQMygHegQIARBX..i&imgrefurl=https%3A%2F%2Fwww.bcsnoticias.mx%2Fen-la-paz-existen-24-monumentos-y-26-esculturas-la-mayoria-en-estado-de-abandono%2F&docid=ks_oyddD6zdHcM&w=1500&h=1000&q=baja%20california%20monumentos&ved=2ahUKEwj8wbLdg7WCAxV9VaQEHXpwDCgQMygHegQIARBX"
+alt="Monumento Baja California"
+height="225"
+width=""</td>
+<td><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.diarioelindependiente.mx%2Fnoticias%2F2019%2F09%2Foriginal%2F1569652048fb753.jpg&tbnid=Y2L62f5ZdQoT6M&vet=12ahUKEwiL54rvg7WCAxV4V6QEHRocBj8QMygcegUIARCFAQ..i&imgrefurl=https%3A%2F%2Fwww.diarioelindependiente.mx%2F2019%2F09%2Ftrasladaron-estatua-de-tiburon-ballena-de-la-darsena-de-loreto-a-la-paz&docid=USL-x_fsXqcHrM&w=850&h=450&q=baja%20california%20estatuas&ved=2ahUKEwiL54rvg7WCAxV4V6QEHRocBj8QMygcegUIARCFAQ"
+alt="Estatua Baja California"
+height="225"
+width=""</td>
+<td></td>
+</tr>
+<tr>
+<td><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fa.cdn-hotels.com%2Fgdcs%2Fproduction196%2Fd1429%2F5c2581f0-c31d-11e8-87bb-0242ac11000d.jpg%3Fimpolicy%3Dfcrop%26w%3D800%26h%3D533%26q%3Dmedium&tbnid=QF792x-vv68chM&vet=12ahUKEwjdiZHYhLWCAxWNUaQEHU25AGAQMygJegQIARB-..i&imgrefurl=https%3A%2F%2Fes.hoteles.com%2Fgo%2Festados-unidos%2Fcosas-que-hacer-en-nueva-york&docid=7aBAvxLBJi6Y8M&w=800&h=533&q=new%20york&ved=2ahUKEwjdiZHYhLWCAxWNUaQEHU25AGAQMygJegQIARB-"
+alt="New York"
+height="225"
+width=""</td>
+<td><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.kolaboo.com%2Fblog%2Fwp-content%2Fuploads%2F2020%2F01%2Fmonumentos-nueva-york-importantes-estatua-libertad.jpg&tbnid=LxY0yoEimOEDHM&vet=12ahUKEwjdq6D9hLWCAxW0Q6QEHQyECW4QMygEegQIARBY..i&imgrefurl=https%3A%2F%2Fwww.kolaboo.com%2Fblog%2Fmonumentos-nueva-york-importantes%2F&docid=4jN_BHW4N4TeCM&w=1500&h=981&q=new%20york%20monumentos&ved=2ahUKEwjdq6D9hLWCAxW0Q6QEHQyECW4QMygEegQIARBY"
+alt="New york monumento"
+height="225"
+width=""</td>
+<td><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.kolaboo.com%2Fblog%2Fwp-content%2Fuploads%2F2020%2F01%2Fmonumentos-nueva-york-importantes-memorial.jpg&tbnid=4OukyeL9iVQuiM&vet=12ahUKEwjdq6D9hLWCAxW0Q6QEHQyECW4QMygXegQIARB-..i&imgrefurl=https%3A%2F%2Fwww.kolaboo.com%2Fblog%2Fmonumentos-nueva-york-importantes%2F&docid=4jN_BHW4N4TeCM&w=1500&h=994&q=new%20york%20monumentos&ved=2ahUKEwjdq6D9hLWCAxW0Q6QEHQyECW4QMygXegQIARB-"
+alt="New york Estatua"
+height="225"
+width=""</td>
+<td></td>
+</tr>
+<tr>
+<td><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Finteractive.wttw.com%2Fsites%2Fdefault%2Ffiles%2Fexplore-chicago-from-the-air-hero_02.jpg&tbnid=JVk8KdxE3nsaTM&vet=12ahUKEwjBzIy6hbWCAxVxuScCHb4_D9EQMygJegQIARB-..i&imgrefurl=https%3A%2F%2Finteractive.wttw.com%2Fchicago-from-the-air%2Fexplore-chicago-from-the-air&docid=fwAspX4JGEg05M&w=2000&h=1125&q=chicago&ved=2ahUKEwjBzIy6hbWCAxVxuScCHb4_D9EQMygJegQIARB-"
+alt="Chicago"
+height="225"
+width=""</td>
+<td><img src="https://www.google.com/imgres?imgurl=http%3A%2F%2Ffarm7.static.flickr.com%2F6197%2F6155376020_0c20a1bf33_o.jpg&tbnid=OPJme2i1-pXNqM&vet=12ahUKEwj0uJvNhbWCAxWEWaQEHacQALEQMygAegQIARBJ..i&imgrefurl=https%3A%2F%2Fprofundidad.net%2Fblog%2Fthe-bean-escultura-chicago&docid=JBh1SUTyN8MjYM&w=940&h=627&q=chicago%20monumento&ved=2ahUKEwj0uJvNhbWCAxWEWaQEHacQALEQMygAegQIARBJ"
+alt="Chicago monumento"
+height="225"
+width=""</td>
+<td><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fdynamic-media-cdn.tripadvisor.com%2Fmedia%2Fphoto-o%2F0f%2F74%2F9b%2Fb4%2Fheald-square-monument.jpg%3Fw%3D500%26h%3D-1%26s%3D1&tbnid=kD6P2dA91ZUbTM&vet=12ahUKEwiI25TfhbWCAxU-XaQEHVZYD-wQMygQegQIARBf..i&imgrefurl=https%3A%2F%2Fwww.tripadvisor.es%2FAttractions-g35805-Activities-c47-t26-Chicago_Illinois.html&docid=J4LxW8cagVSRlM&w=500&h=376&q=chicago%20estatua&ved=2ahUKEwiI25TfhbWCAxU-XaQEHVZYD-wQMygQegQIARBf"
+alt="Chicago estatua"
+height="225"
+width=""</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+</body>
+</html>
